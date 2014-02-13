@@ -3,6 +3,17 @@ PUM-Ejemplos
 
 Ejemplos de #PUM
 
+Quick start
+===========
+
+1. Get a copy of MercuPy from https://github.com/facom/MercuPy:
+
+   NOTE: You can get an anonymous clone of the project using:
+
+      git clone http://github.com/facom/MercuPy.git
+
+   Then you will be able to get updates using 'git pull'.
+
 For the contirbutor
 ===================
 
